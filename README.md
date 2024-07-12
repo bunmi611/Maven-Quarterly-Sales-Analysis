@@ -48,7 +48,7 @@
      
      
          
-    Sale Performance
+  ###  Sale Performance
 
  . GTX Pro generated the highest sales values of $3,510,578
 
@@ -56,13 +56,13 @@
 
  . The highest account is Kan _code with $341,455
 
-      Observation
+     ### Observation
 
   . The number of unsuccessful deals has been increasing since the first quarter
 
   . The faster the deal closed the lesser the deals won
 
-      Recommendation
+     ### Recommendation
 
  . Darcel Schlecht and other top agents should be awarded bonus.
 
